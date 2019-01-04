@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "chanmi blog"
+title                    : "개발을 잘하고 싶어서만든 blog"
 title_separator          : "-"
 name                     : "Your Name"
 description              : "An amazing website."
