@@ -5,3 +5,5 @@ categories: jekyll update
 ---
 
 git blog 개설 !
+
+#include <stdio.h>
